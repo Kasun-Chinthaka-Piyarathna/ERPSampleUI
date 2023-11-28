@@ -17,4 +17,4 @@ The backend code can be found here - https://github.com/Kasun-Chinthaka-Piyarath
 
 ![Screenshot](https://github.com/Kasun-Chinthaka-Piyarathna/ERPSampleUI/blob/master/screenshots/screenshot_1.png)
 
-![Screenshot](https://github.com/Kasun-Chinthaka-Piyarathna/ERPSampleUI/blob/master/screenshots/screenshot_2.png)
+![Screenshot](https://github.com/Kasun-Chinthaka-Piyarathna/ERPSampleUI/blob/master/screenshots/screenshot_3.png)
